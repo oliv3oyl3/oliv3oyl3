@@ -1,0 +1,6 @@
+`appium-doctor --ios`  
+``` 
+"xcodeOrgId": "<Team ID>",  
+"xcodeSigningId": "iPhone Developer" 
+ 
+```
